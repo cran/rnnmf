@@ -1,0 +1,11 @@
+
+2024-10-30 Steven E. Pav <shabbychef@gmail.com>
+* renaming rnnmf because rNMF was taken on CRAN.
+* version 0.3.0 to CRAN.
+
+2024-10-14 Steven E. Pav <shabbychef@gmail.com>
+* version 0.2.0 released on github
+
+2024-08-17 Steven E. Pav <shabbychef@gmail.com>
+* start work
+
